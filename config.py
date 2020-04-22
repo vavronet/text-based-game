@@ -11,3 +11,9 @@ health = {
     'second_boss': 15,
     'final_boss': 20
 }
+
+tries = {
+    'first_boss': 10,
+    'second_boss': 9,
+    'final_boss': 8,
+}
