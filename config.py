@@ -6,14 +6,14 @@ points = {
 }
 
 health = {
-    'player': 20,
-    'first_boss': 10,
-    'second_boss': 15,
-    'final_boss': 20
+    'player': 30,
+    'first_boss': 25,
+    'second_boss': 30,
+    'final_boss': 40
 }
 
 tries = {
     'first_boss': 10,
-    'second_boss': 9,
-    'final_boss': 8,
+    'second_boss': 8,
+    'final_boss': 6,
 }

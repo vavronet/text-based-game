@@ -5,7 +5,7 @@ def run():
 
     avatar = input("Enter your avatar name here: \n")
 
-    print("\nGretting, {}!\nThe kingdom of pants has been conquered by the evil hat masterminds!\nSave the pant people and defeat the evil hat wizard! \nMay the odds be with you Heart-Hand!".format(avatar))
+    print("\nGrettings, {}!\nThe kingdom of pants has been conquered by the evil hat masterminds!\nSave the pant people and defeat the evil hat wizard! \nMay the odds be with you Heart-Hand!".format(avatar))
 
     time.sleep(3)
 
