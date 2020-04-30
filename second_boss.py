@@ -18,7 +18,7 @@ def run():
     return functions.do_fight(params)
 
 def second_boss_intro():
-    print("You coninue your journey along the Hairline... Watch out! Fadora blocks the way!\n")
+    print("You continue your journey along the Hairline... Watch out! Fadora blocks the way!\n")
     time.sleep(1.5)
     print('You have {} health points.'.format(config.health['player']))
     print('This boss has {} health points!'.format(config.health['second_boss']))

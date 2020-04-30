@@ -47,6 +47,9 @@ def do_fight(params):
         if status == False:
             print("You Lost!\n")
         else:
-            print("You defeated the {} boss!\n".format(boss))
+            print('\n----------------------------------------')
+            print("You DEFEATED the {} boss!".format(boss))
+            print('----------------------------------------')
+            input('\nPress any key to advance to the next level!\n')
 
     return status

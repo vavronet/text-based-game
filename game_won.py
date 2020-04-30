@@ -1,2 +1,4 @@
 def run():
-    print('Wow. You won!')
+    print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+    print('        GREAT JOB! YOU SAVED THE PANT KINGDOM')
+    print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
